@@ -13,4 +13,4 @@ Repository ini hasil kegiatan magang yang dilaksanakan di bawah koordinasi Dinas
 AutoCAD
 
 ## Output
-Skema jaringan Sungai Cisadane dalam bentuk peta
+Skema jaringan Sungai Ciliwung dalam bentuk peta
